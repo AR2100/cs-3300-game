@@ -62,6 +62,8 @@ import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import javax.imageio.ImageIO;
 
+// Source: https://gist.github.com/abdelaziz321/e9932bd15e4b263c3dae08644c61600c#file-paint-java
+
 public class Paint extends Application {
     
     @Override
